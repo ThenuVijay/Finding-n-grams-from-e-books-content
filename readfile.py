@@ -18,6 +18,7 @@ file.close()
 
 re.Findgrams1(content,1)
 re.Findgrams1(content,2)
+re.Findgrams1(content,3)
 
 
 
